@@ -8,7 +8,7 @@
   "server": {
     "ip": "RNarnia.aternos.me",
     "port": 29687,
-    "version": "26.10",
+    "version": "1.20",
     "try-creative": false
   },
   "position": {
